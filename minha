@@ -1,0 +1,73 @@
+
+
+
+    #EXTM3U
+        #EXTINF:-1,CANAL HISTORIA
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/23.ts
+        #EXTINF:-1,NATIONAL GEOGRAPHIC HD
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/86.ts
+        #EXTINF:-1,DISCOVERY CHANNEL
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/49.ts
+        #EXTINF:-1,TOROS TV
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/57.ts
+        #EXTINF:-1,US NFL
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/194.ts
+        #EXTINF:-1,UK Sky Sport 5
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/238.ts
+        #EXTINF:-1,UK Sky Sport 4
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/237.ts
+        #EXTINF:-1,UK Sky Sport 3
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/236.ts
+        #EXTINF:-1,UK Sky Sport 2
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/235.ts
+        #EXTINF:-1,UK Sky Sport 1
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/234.ts
+	      #EXTINF:-1,SPORTV1
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/32.ts
+        #EXTINF:-1,SPORTV2
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/33.ts
+        #EXTINF:-1,SPORTV3
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/34.ts
+        #EXTINF:-1,SPORTV4
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/35.ts
+        #EXTINF:-1,rtp1
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/3.ts
+        #EXTINF:-1,RTP2
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/6.ts
+        #EXTINF:-1,SIC
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/7.ts
+        #EXTINF:-1,TVI
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/8.ts
+        #EXTINF:-1,TVI 24
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/12.ts
+        #EXTINF:-1,SIC Noticias
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/10.ts
+        #EXTINF:-1,SIC Mulher
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/13.ts
+        #EXTINF:-1,SIC Radical
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/14.ts
+        #EXTINF:-1,RTP Informaçao
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/9.ts
+        #EXTINF:-1,SIC KIDS
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/21.ts
+        #EXTINF:-1,BABY TV
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/20.ts
+        #EXTINF:-1,Disney Junior
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/17.ts
+        #EXTINF:-1,Disney Channel
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/16.ts
+        #EXTINF:-1,PANDA
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/15.ts
+        #EXTINF:-1,PANDA BIGGS
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/18.ts
+        #EXTINF:-1,CARTOON NETWORK
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/44.ts
+        #EXTINF:-1,A bola
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/4.ts
+        #EXTINF:-1,EUROSPORT
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/19.ts
+        #EXTINF:-1,BTV1
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/81.ts
+        #EXTINF:-1,BTV2
+        http://iptv.temnet.pt:8000/live/gustavo/gustavo1/28.ts
+
