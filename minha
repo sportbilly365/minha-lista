@@ -22,7 +22,7 @@
         http://iptv.temnet.pt:8000/live/gustavo/gustavo1/235.ts
         #EXTINF:-1,UK Sky Sport 1
         http://iptv.temnet.pt:8000/live/gustavo/gustavo1/234.ts
-	      #EXTINF:-1,SPORTV1
+	#EXTINF:-1,SPORTV1
         http://iptv.temnet.pt:8000/live/gustavo/gustavo1/32.ts
         #EXTINF:-1,SPORTV2
         http://iptv.temnet.pt:8000/live/gustavo/gustavo1/33.ts
